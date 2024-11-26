@@ -1,6 +1,6 @@
 [{
         "app_port": "8081",
-        "box": "centos/stream8",
+        "box": "centos/stream9",
         "cpus": 4,
         "distro": "centos",
         "family": "redhat",
@@ -13,7 +13,7 @@
     },
     {
         "app_port": "8080",
-        "box": "centos/stream8",
+        "box": "centos/stream9",
         "cpus": 2,
         "distro": "centos",
         "family": "redhat",
@@ -26,7 +26,7 @@
     },
     {
         "app_port": "3000",
-        "box": "centos/stream8",
+        "box": "centos/stream9",
         "cpus": 2,
         "distro": "centos",
         "family": "redhat",
@@ -39,7 +39,7 @@
     },
     {
         "app_port": "9000",
-        "box": "centos/stream8",
+        "box": "centos/stream9",
         "cpus": 2,
         "distro": "centos",
         "family": "redhat",

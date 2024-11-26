@@ -3,7 +3,7 @@
 - name: Provision a Vagrant machine
   hosts: localhost
   vars:
-    box: "centos/stream8"
+    box: "centos/stream9"
   tasks:
     - name: Create a Vagrantfile
       command: "vagrant init {{ box }}"
